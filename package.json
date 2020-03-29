@@ -1,0 +1,17 @@
+{
+    "name": "coventry-18.2-ipc-smartsleep",
+    "version": "0.0.1",
+    "description": "Coventry 18.2 - NIB307CR Course work 2- COBSCCOMP182p-030 - SmartSleep",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Pradeep Sanjaya (sanjayangp@gmail.com)",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.16.1",
+        "express": "^4.14.1",
+        "path": "^0.12.7",
+        "pusher": "^3.0.1"
+    }
+}
